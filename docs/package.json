@@ -1,0 +1,14 @@
+{
+  "name": "@timeline/docs",
+  "version": "1.0.0",
+  "description": "Documentation for timeline",
+  "private": true,
+  "scripts": {
+    "build": "echo 'Docs build - coming soon'",
+    "dev": "echo 'Docs dev - coming soon'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.28.2"
+}
